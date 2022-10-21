@@ -1,0 +1,10 @@
+Asymptotic analysis
+
+In mathematical analysis, asymptotic analysis, also known as asymptotics,
+ is a method of describing limiting behavior.
+
+As an illustration, suppose that we are interested in the properties of a function
+ f (n) as n becomes very large. If f(n) = n2 + 3n, then as n becomes very large,
+ the term 3n becomes insignificant compared to n2. The function f(n) is said to 
+be "asymptotically equivalent to n2, as n → ∞". This is often written symbolically
+ as f (n) ~ n2, which is read as "f(n) is asymptotic to n2".
