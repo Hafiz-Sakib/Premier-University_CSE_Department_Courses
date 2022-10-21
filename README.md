@@ -1,7 +1,7 @@
 # Thanks to the Seniors of 33rd Batch For This Awsome Resources & Special Thanks to [Mujibur Rahman Munna Bhai](https://www.facebook.com/mujiburrahmanmunna)
 
 
-## ** Owner of this repository is [Hafiz Sakib](https://www.facebook.com/Sakib1056), Use the repository,Fork it,Pull Request available and It's Open for Contribution But Please Don't Clone it Without Permission **
+## ** Owner of this repository is [Hafiz Sakib](https://www.facebook.com/Sakib1056), Use the repository,Fork it,Pull Request available and It's Open for Contribution 👌👌**
 
 
 
